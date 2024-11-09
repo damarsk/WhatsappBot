@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "@whiskeysockets/baileys": "^6.6.0",
+    "dotenv": "^16.4.5",
+    "pino": "^8.19.0",
+    "qrcode-terminal": "^0.12.0",
+    "quote-indo": "^1.1.0",
+    "wa-sticker-formatter": "^4.4.4",
+    "you-ai": "^3.0.0"
+  }
+}
